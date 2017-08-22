@@ -4,3 +4,6 @@ data
 models
 *.swp
 *.p
+CODEOWNERS
+old1.ipynb
+writeup_template.md
